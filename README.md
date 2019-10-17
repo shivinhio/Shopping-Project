@@ -1,2 +1,2 @@
 # Shopping-Project
-A project predicting the amount of money a customer will spend in shopping according to given initial data.
+A project predicting the amount of money a customer will spend on shopping according to given initial data.
